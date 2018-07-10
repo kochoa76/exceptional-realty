@@ -195,6 +195,7 @@ img, video, audio, iframe, table, form {
 }
 
 /*/////// SOCIAL ////////*/
+
 #social {
   position: fixed;
   top: 163px;
@@ -227,7 +228,6 @@ a.twit:active { background-position: -80px -40px; }
 a.gplus { background-position: 0 -80px; }
 a.gplus:hover { background-position: -40px -80px; }
 a.gplus:active { background-position: -80px -80px; }
-
 
 /*////////// HEADER //////////*/
 
